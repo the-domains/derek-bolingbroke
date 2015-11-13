@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Derek Bolingbroke]]></title>
         <description><![CDATA[Derek Bolingbroke]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/derek-bolingbroke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 16:48:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 Nov 2015 16:50:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/derek-bolingbroke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Business]]></title>
             <description><![CDATA[<article><h1>Business</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60c25e8f-2d4f-4ed8-a156-8d72a3eb989c.jpg"></article>]]></description>
-            <link>undefinedbusiness/index.html</link>
+            <link>https://thegrid.ai/derek-bolingbroke/business/index.html</link>
             <guid isPermaLink="false">1b189374-a3b9-415f-bd8b-f42055d6e5db</guid>
-            <pubDate>Fri, 13 Nov 2015 16:48:36 GMT</pubDate>
+            <pubDate>Fri, 13 Nov 2015 16:50:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
